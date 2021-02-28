@@ -1,0 +1,5 @@
+site_name: GPTune History Database
+nav:
+  - Home: index.md
+  - HistoryDB: historydb_motivation.md
+theme: readthedocs
